@@ -1,0 +1,16 @@
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\bin\Debug\titkosítás.exe.config
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\bin\Debug\titkosítás.exe
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\bin\Debug\titkosítás.pdb
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\obj\Debug\titkosítás.csproj.AssemblyReference.cache
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\obj\Debug\titkosítás.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\obj\Debug\titkosítás.csproj.CoreCompileInputs.cache
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\obj\Debug\titkosítás.exe
+C:\Users\LEVIS\Desktop\PROJECTS\Dusza 2019_2020\titkosítás\obj\Debug\titkosítás.pdb
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\bin\Debug\titkosítás.exe.config
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\bin\Debug\titkosítás.exe
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\bin\Debug\titkosítás.pdb
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\obj\Debug\titkosítás.csproj.AssemblyReference.cache
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\obj\Debug\titkosítás.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\obj\Debug\titkosítás.csproj.CoreCompileInputs.cache
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\obj\Debug\titkosítás.exe
+C:\Users\LEVIS\Desktop\PROJECTS\TITKOSÍTÁS\titkosítás\obj\Debug\titkosítás.pdb
